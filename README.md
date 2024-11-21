@@ -1,0 +1,39 @@
+## Syllabus checklist
+
+- [ ] Module 1 - Algorithm Analysis
+    - [ ] Time and space complexity
+    - [ ] Recurrence relation analysis
+- [ ] Module 2 - Linear Data Structures
+    - [ ] Stack
+    - [ ] Applications of Stack
+    - [ ] Queue variants: Circular Queue, Deque
+    - [ ] Doubly Linked List, Circular Linked List
+    - [ ] Polynomial Manipulation
+- [ ] Module 3 - Searching and Sorting
+    - [ ] Binary Search
+    - [ ] Insertion sort
+    - [ ] Selection sort
+    - [ ] Bubble sort
+    - [ ] Quick sort
+    - [ ] Merge sort
+- [ ] Module 4 - Trees
+    - [ ] Tree Traversals
+    - [ ] Expression trees
+    - [ ] BST - insertion, deletion, finding min and max, finding kth min element
+- [ ] Module 5 - Graphs
+    - [ ] BFS, DFS
+    - [ ] Minimum Spanning Tree: Prim's, Kruskal's
+    - [ ] Dijkstra's Algorithm
+- [ ] Module 6 - Hashing
+    - [ ] Hash functions
+    - [ ] Separate chaining
+    - [ ] Open hashing: Linear probing, Quadratic probing, Double hashing
+    - [ ] Closed hashing
+    - [ ] Random probing
+    - [ ] Rehashing
+    - [ ] Extendible hashing
+- [ ] Module 7 - Heaps and AVL trees
+    - [ ] Heaps: Min heap, max heap, etc
+    - [ ] Heap sort
+    - [ ] Priority queues using heaps
+    - [ ] AVL trees: Rotation, insertion, deletion
