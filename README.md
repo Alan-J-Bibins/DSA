@@ -25,8 +25,8 @@
     - [ ] Minimum Spanning Tree: Prim's, Kruskal's
     - [ ] Dijkstra's Algorithm
 - [ ] Module 6 - Hashing
-    - [ ] Hash functions
-    - [ ] Separate chaining
+    - [X] Hash functions
+    - [X] Separate chaining
     - [ ] Open hashing: Linear probing, Quadratic probing, Double hashing
     - [ ] Closed hashing
     - [ ] Random probing
